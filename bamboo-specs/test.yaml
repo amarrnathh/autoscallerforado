@@ -2,8 +2,8 @@
 version: 2
 plan:
   project-key: MARS
-  key: CRICKET
-  name: Build the rocket
+  key: TEST
+  name: Build the TEST
 stages:
   - Build hull:
     - Build
